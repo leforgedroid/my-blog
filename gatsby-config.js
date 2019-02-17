@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `LeForge Blog`,
+    title: `For Dummies Like Me`,
     author: `Timothy LeForge`,
     description: `A blog where we can learn stuff together`,
     siteUrl: `https://leforge.netlify.com/`,
