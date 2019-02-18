@@ -14,8 +14,12 @@ function Bio() {
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5),
-            }}
+              marginBottom: rhythm(0.75),
+              // boxShadow: `3px 3px 5px #888888`,
+              borderRadius: 10,
+              border: `1px solid #888888`,
+              padding: `5px 5px 5px 5px`,
+              height: `62px` }}
           >
             <Image
               fixed={data.avatar.childImageSharp.fixed}
@@ -30,7 +34,7 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
+            <p style={{fontSize: `small`, width: `75%`}}>
               Written by <strong>{author}</strong> who lives and works near Grand Rapids Michigan and loves trying out new technologies and teaching others whatever he can teach.
               {` `}<br/>
               Please &nbsp; 

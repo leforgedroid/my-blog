@@ -4,8 +4,7 @@ date: "2018-03-03T23:46:37.121Z"
 ---
 ![](https://cdn-images-1.medium.com/max/1280/0*5Dx0ccSNf9TcUePX.)
 <span class="figcaption_hack">Photo by [Evan
-Dennis](https://unsplash.com/@evan__bray?utm_source=medium&utm_medium=referral)
-on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)</span>
+Dennis](https://unsplash.com/@evan__bray?utm_source=medium&utm_medium=referral)</span>
 
 I’ll start with some specifics about me. I’m 53 years old (as of 2018) and have
 been a professional developer since 1990. For all intents and purposes, that was
